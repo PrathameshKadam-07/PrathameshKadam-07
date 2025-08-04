@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋, I'm Prathamesh Kadam
 
-<!--
-**PrathameshKadam-07/PrathameshKadam-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BTech CSE student | Cyber Security & Forensics @ MIT ADT University, Pune  
+🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics  
+💻 Built projects using C, Java, Python, HTML, CSS  
+📚 Google Cybersecurity Certificate | NSS Management Lead  
+🌱 Currently learning: SIEM, Linux Security, and Cloud Security  
+🚀 Seeking cyber security internships and collaborative tech opportunities  
 
-Here are some ideas to get you started:
+📫 Reach me at: prathameshkdm5407@gmail.com  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathamesh-kadam-9392642b4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+

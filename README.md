@@ -3,8 +3,6 @@
 🎓 Final-year BTech CSE student | Cyber Security & Forensics @ MIT ADT University, Pune  
 🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics  
 💻 Built projects using C, Java, Python, HTML, CSS  
-📚 Google Cybersecurity Certificate | NSS Management Lead  
-🌱 Currently learning: SIEM, Linux Security, and Cloud Security  
 🚀 Seeking cyber security internships and collaborative tech opportunities  
 📄 Resume:- [📄 View My Resume](./RESUME.pdf)
 

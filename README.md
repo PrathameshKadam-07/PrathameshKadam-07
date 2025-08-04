@@ -6,6 +6,8 @@
 📚 Google Cybersecurity Certificate | NSS Management Lead  
 🌱 Currently learning: SIEM, Linux Security, and Cloud Security  
 🚀 Seeking cyber security internships and collaborative tech opportunities  
+📄 Resume:- [📄 View My Resume](./RESUME.pdf)
+
 
 📫 Reach me at: prathameshkdm5407@gmail.com  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathamesh-kadam-9392642b4)

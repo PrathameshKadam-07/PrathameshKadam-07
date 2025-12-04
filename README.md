@@ -1,11 +1,15 @@
 ## Hi 👋, I'm Prathamesh Kadam
 
 🎓 Final-year BTech CSE student | Cyber Security & Forensics @ MIT ADT University, Pune  
-🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics.
-💻 Built projects using C, Java, Python, HTML, CSS  , JavaScript, SQL, MongoDb.
-🚀 Seeking cyber security internships and collaborative tech opportunities.
-📄 Resume:- [📄 View My Resume](./RESUME.pdf)
 
+🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics.
+
+💻 Built projects using C, Java, Python, HTML, CSS  , JavaScript, SQL, MongoDb.
+
+🚀 Seeking cyber security internships and collaborative tech opportunities.
+___
+
+📄 Resume:- [📄 View My Resume](./RESUME.pdf)
 
 📫 Reach me at: prathameshkdm5407@gmail.com  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathamesh-kadam-9392642b4)

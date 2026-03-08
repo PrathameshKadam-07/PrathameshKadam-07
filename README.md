@@ -15,13 +15,13 @@
 🤝 Open to Software Development, Backend Engineering, and Cybersecurity opportunities.
 ___
 
-📄 Resume:- [📄View My Resume](Resume.pdf)
+📄 Resume: [📄View My Resume](Resume.pdf)
 
 📫 Reach me at: 5407prathameshkdm@gmail.com  
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathamesh-kadam-9392642b4)
 
-🔗 Connect with me on [Credly By Person](https://www.credly.com/users/prathamesh-kadam.97c507b0)
+🔗 My Profile on [Credly By Person](https://www.credly.com/users/prathamesh-kadam.97c507b0)
 
 ---
 

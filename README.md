@@ -1,12 +1,18 @@
 ## Hi 👋, I'm Prathamesh Kadam
 
-🎓 Final-year BTech CSE student | Cyber Security & Forensics @ MIT ADT University, Pune  
+🎓 Final-year B.E. Computer Engineering student at MIT ADT University, Pune.
 
-🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics.
+💻 Java Backend Developer & Cybersecurity Enthusiast with hands-on experience in building scalable applications using Java, Spring Boot, JPA/Hibernate, REST APIs, SQL, and modern web technologies.
 
-💻 Built projects using C, Java, Python, HTML, CSS, JavaScript, SQL, MongoDb, Spring Boot.
+🔐 Passionate about Cybersecurity, Secure System Design, Ethical Hacking, and Digital Forensics.
 
-🚀 Seeking cyber security internships and collaborative tech opportunities.
+🚀 Currently working as a Software Engineer Trainee Intern, contributing to backend development for a banking-domain project for ICICI Bank by developing RESTful APIs and enterprise-grade services.
+
+⚡ Experienced in building full-stack and backend systems using Java, Spring Boot MVC, Servlets, JSP, MongoDB, and MySQL.
+
+🧠 Interested in Backend Engineering, Secure Software Development, and Cybersecurity Research.
+
+🤝 Open to Software Development, Backend Engineering, and Cybersecurity opportunities.
 ___
 
 📄 Resume:- [📄View My Resume](Resume.pdf)

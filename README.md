@@ -4,16 +4,18 @@
 
 🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Forensics.
 
-💻 Built projects using C, Java, Python, HTML, CSS  , JavaScript, SQL, MongoDb.
+💻 Built projects using C, Java, Python, HTML, CSS, JavaScript, SQL, MongoDb, Spring Boot.
 
 🚀 Seeking cyber security internships and collaborative tech opportunities.
 ___
 
 📄 Resume:- [📄View My Resume](Resume.pdf)
 
-📫 Reach me at: prathameshkdm5407@gmail.com  
+📫 Reach me at: 5407prathameshkdm@gmail.com  
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathamesh-kadam-9392642b4)
-🔗 Connect with me on [LinkedIn](https://www.credly.com/users/prathamesh-kadam.97c507b0)
+
+🔗 Connect with me on [Credly By Person](https://www.credly.com/users/prathamesh-kadam.97c507b0)
 
 ---
 
